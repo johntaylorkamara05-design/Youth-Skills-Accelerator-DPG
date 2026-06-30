@@ -13,7 +13,7 @@ The **Youth Skills Accelerator & Mentorship Hub** is an open-source decentralize
 ---
 
 ## 🎨 Design Links & Visual Layout Assets
-* 🔗 **Figma Interactive Live Interface Flow:** [View Figma Prototype Canvas](https://www.figma.com/) *(Replace with your actual share link if preferred)*
+* 🔗 **Figma Interactive Live Interface Flow:** https://www.figma.com/design/a614Na5Ho2PZH2474YhK9o/Youth-Skills-Accelerator---Mentorship-Hub?node-id=66-114&t=FhjDeWTxTbQIdT76-1
 * 📂 **Core Visual Documentation Matrix:** Fully structured inside the `/diagrams` root directory.
 
 ---
